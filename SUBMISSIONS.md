@@ -5,3 +5,4 @@ List of Submissions from todays Meetup, to submit you will need to add your link
 * [Afroza Ahmed](http://afrozahmed98.github.io/afrozahmed98)
 * [Fernando Franco](https://github.com/fendi626/fendi626.github.io)
 * [Faisal Hossain] (https://github.com/xlr82nsanity/brownmamba.git)
+* [Gary Tse] (http://gtse6502.github.io/codenow-gtse6502)
